@@ -1,4 +1,3 @@
-# flutter_movies_app_ex
 
 A new Flutter project.
 
